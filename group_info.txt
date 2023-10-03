@@ -1,9 +1,9 @@
 Group Number:
 
 Member-1:
-- Name:
-- Student ID:
-- Email:
+- Name:   Simon CHEN
+- Student ID: 1196439
+- Email:  chunyuc1@student.unimelb.edu.au
 
 Member-2:
 - Name:

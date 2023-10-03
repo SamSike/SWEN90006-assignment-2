@@ -6,16 +6,16 @@ Member-1:
 - Email:  chunyuc1@student.unimelb.edu.au
 
 Member-2:
-- Name:
-- Student ID:
-- Email:
+- Name: Mark Norrish
+- Student ID: 655375
+- Email: mgnorrish@gmail.com
 
 Member-3:
-- Name:
-- Student ID:
-- Email:
+- Name: Sameer Sikka
+- Student ID: 1169800
+- Email: ssikka@student.unimelb.edu.au
 
 Member-4:
-- Name:
-- Student ID:
-- Email:
+- Name: Rajneesh Gokool
+- Student ID: 1101512
+- Email: rgokool@student.unimelb.edu.au
